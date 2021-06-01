@@ -1,0 +1,26 @@
+ 
+
+(Det]:2-3 -> ‘an’ (None),
+(]:3-4 -> ‘elephant’ (None),
+
+> (Det) 12-3. (N):
+=> [v}:1-2 [NP
+> (P}:4-5 [NP]
+> ‘in! (None),
+> (Det }:5-6 [N]:6-7 (None),
+(Det}:5-6 -> ‘my’ (None),
+(N]:6-7 —> ‘pajamas’ (None),
+
+6 []2627 (Wone),
+
+14-5 [NP]:5~7 (None),
+r1-7 -> [VP]:1-4 (PP]:4-7 (None)]
+
+ 
+
+       
+
+ 
+
+    
+
